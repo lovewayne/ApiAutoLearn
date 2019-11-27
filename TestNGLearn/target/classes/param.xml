@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="paramsuite">
+    <test name="paramCase">
+        <classes>
+            <parameter name="name" value="666"/>
+            <parameter name="age" value="10"/>
+            <class name="com.learn.testng.paramlearn.ParamCase"/>
+        </classes>
+
+    </test>
+
+</suite>
