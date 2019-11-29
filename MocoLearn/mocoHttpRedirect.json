@@ -1,0 +1,26 @@
+[
+  {
+    "description":"moco重定向到某个网址,默认get",
+    "request":{
+      "uri":"/redirect"
+    },
+    "redirectTo":"https://www.baidu.com"
+  },
+  {
+    "description":"moco重定向到自定义地址,默认get",
+    "request":{
+      "uri":"/redirectdefined"
+    },
+    "redirectTo":"/redirect/new"
+  },
+  {
+    "description":"以上重定向地址",
+    "request":{
+      "uri":"/redirect/new"
+    },
+    "response":{
+      "text":"成功",
+      "status":200
+    }
+  }
+]

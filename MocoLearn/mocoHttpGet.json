@@ -1,0 +1,32 @@
+[
+  {
+    "description":"模拟无参get请求",
+    "request":{
+      "uri":"/mocohttpgets",
+      "method":"get"
+    },
+    "response":{
+      "text":"moco的HTTP协议的无参get方法",
+      "headers":{
+        "Content-Type":"text/html;charset=gbk"
+      }
+    }
+  },
+  {
+    "description":"模拟带参get请求",
+    "request":{
+      "uri":"/mocohttpgetwithparam",
+      "method":"get",
+      "queries":{
+        "name":"xiaoming",
+        "age":"18"
+      }
+    },
+    "response":{
+      "text":"moco的HTTP带参get方法",
+      "headers":{
+        "Content-Type":"text/html;charset=gbk"
+      }
+    }
+  }
+]

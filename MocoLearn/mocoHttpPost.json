@@ -1,0 +1,32 @@
+[
+  {
+    "description":"模拟moco的http post请求",
+    "request":{
+      "uri":"/mocoHttpPost",
+      "method":"post"
+    },
+    "response":{
+      "text":"无参post方法",
+      "headers":{
+        "Content-Type":"text/html;charset=gbk"
+      }
+    }
+  },
+  {
+    "description":"模拟带参post请求",
+    "request":{
+      "uri":"/mocohttppostwithparam",
+      "method":"post",
+      "forms":{
+        "name":"王舞",
+        "age":"120"
+      }
+    },
+    "response":{
+      "text":"带参post方法",
+      "headers":{
+        "Content-Type":"text/html;charset=gbk"
+      }
+    }
+  }
+]

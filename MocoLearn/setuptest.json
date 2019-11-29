@@ -1,0 +1,15 @@
+[
+  {
+    "description":"moco初次使用",
+    "request":{
+      "uri":"/mocotest"
+    },
+    "response":{
+      "text":"解决中文乱码问题:在属性headers中加入编码格式",
+      "headers":{
+        "Content-Type":"text/html;charset=gbk"
+      }
+    }
+  }
+
+]

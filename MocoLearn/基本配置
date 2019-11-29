@@ -1,0 +1,9 @@
+#使用moco命令：
+#java -jar moco-runner-0.11.0-standalone.jar http -p 8089 -c jsonfilename
+#http为协议 -p：指定端口 -c：运行文件
+java -jar moco-runner-0.11.0-standalone.jar http -p 8089 -c setuptest.json
+
+解决json文件响应中文乱码问题：在response中加入header头属性如下：
+"headers":{
+        "Content-Type":"text/html;charset=gbk"
+      }
