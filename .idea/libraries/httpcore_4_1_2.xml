@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="httpcore-4.1.2">
+    <CLASSES>
+      <root url="jar://E:/NewMaven/repository/org/apache/httpcomponents/httpcore/4.1.2/httpcore-4.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://E:/NewMaven/repository/org/apache/httpcomponents/httpcore/4.1.2/httpcore-4.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
