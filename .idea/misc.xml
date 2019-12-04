@@ -7,7 +7,19 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/TestNGLearn/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/HttpClientLearn/pom.xml" />
+        <option value="$PROJECT_DIR$/HttpClientLearn2/pom.xml" />
+        <option value="$PROJECT_DIR$/MockLearn/pom.xml" />
+        <option value="$PROJECT_DIR$/MybatisAndLogback/pom.xml" />
+        <option value="$PROJECT_DIR$/Test2/pom.xml" />
+        <option value="$PROJECT_DIR$/extentReportsLearn/pom.xml" />
+      </set>
+    </option>
   </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_9" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>

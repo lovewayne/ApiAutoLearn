@@ -6,10 +6,22 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="ExtentReportsLearn" />
+        <module name="HttpClientLearn" />
+        <module name="MybatisLogbackLearn" />
+        <module name="SpringBootApiLearn" />
         <module name="TestNGLearn" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="ApiAutoLearn" target="1.8" />
+      <module name="extentReportLearn" target="1.8" />
+      <module name="ExtentReportsLearn" target="1.8" />
+      <module name="HttpClientLearn" target="1.8" />
+      <module name="MybatisAndLogback" target="1.8" />
+      <module name="MybatisLogbackLearn" target="1.8" />
+      <module name="SpringBootApiLearn" target="1.8" />
+      <module name="Test2" target="1.8" />
       <module name="TestNGLearn" target="1.8" />
     </bytecodeTargetLevel>
   </component>

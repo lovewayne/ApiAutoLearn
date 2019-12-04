@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/ApiAutoLearn.iml" filepath="$PROJECT_DIR$/.idea/ApiAutoLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExtentReportsLearn/ExtentReportsLearn.iml" filepath="$PROJECT_DIR$/ExtentReportsLearn/ExtentReportsLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HttpClientLearn/HttpClientLearn.iml" filepath="$PROJECT_DIR$/HttpClientLearn/HttpClientLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MybatisLogbackLearn/MybatisLogbackLearn.iml" filepath="$PROJECT_DIR$/MybatisLogbackLearn/MybatisLogbackLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootApiLearn/SpringBootApiLearn.iml" filepath="$PROJECT_DIR$/SpringBootApiLearn/SpringBootApiLearn.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestNGLearn/TestNGLearn.iml" filepath="$PROJECT_DIR$/TestNGLearn/TestNGLearn.iml" />
     </modules>
   </component>
