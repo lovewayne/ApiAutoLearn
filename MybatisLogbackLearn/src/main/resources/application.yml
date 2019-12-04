@@ -1,0 +1,20 @@
+server:
+  port: 8089
+
+logging:
+  file: mylogs
+  path: mylog.log
+
+spring:
+  application:
+    name: report
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/api-case
+    username: root
+    password: 123456
+
+mybatis:
+  mapper-locations:
+    - mapper/*
+  type-aliases-package: com.learn.model
