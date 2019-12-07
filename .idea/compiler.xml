@@ -11,6 +11,7 @@
         <module name="MybatisLogbackLearn" />
         <module name="SpringBootApiLearn" />
         <module name="TestNGLearn" />
+        <module name="UserManagerSystem" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -23,6 +24,7 @@
       <module name="SpringBootApiLearn" target="1.8" />
       <module name="Test2" target="1.8" />
       <module name="TestNGLearn" target="1.8" />
+      <module name="UserManagerSystem" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

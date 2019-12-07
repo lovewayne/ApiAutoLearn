@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/MybatisLogbackLearn/MybatisLogbackLearn.iml" filepath="$PROJECT_DIR$/MybatisLogbackLearn/MybatisLogbackLearn.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBootApiLearn/SpringBootApiLearn.iml" filepath="$PROJECT_DIR$/SpringBootApiLearn/SpringBootApiLearn.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestNGLearn/TestNGLearn.iml" filepath="$PROJECT_DIR$/TestNGLearn/TestNGLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserManagerSystem/UserManagerSystem.iml" filepath="$PROJECT_DIR$/UserManagerSystem/UserManagerSystem.iml" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name=""  parallel="" thread-count="">
+    <!--
+    parallel：TestNG使用suite标签下的parallel属性实现测试方法在不同的线程下执行
+    parallel分为tests、classes、methods等3个标签级别：
+    tests：不同test标签下的用例可以在不同的线程下执行；相同test标签的用例只能在同一线程中执行
+    classes：相同的class标签下的用例在同一线程中执行
+    methods：所有用例都可以在不同线程下执行
+
+    thread-count 代表了最大并发线程数
+    xml 文件配置方式不能指定线程池，只有Java代码方法中可以指定线程池
+    -->
+    <test name="">
+        <classes>
+            <class name=""/>
+        </classes>
+    </test>
+</suite>

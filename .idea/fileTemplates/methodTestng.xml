@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="">
+    <test name="">
+        <classes>
+            <class name="">
+                <methods>
+                    <include name=""/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <listeners>
+        <listener class-name="com.learn.config.ExtensTestngReportsListener"/>
+    </listeners>
+</suite>
