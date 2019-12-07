@@ -6,7 +6,7 @@ TestNG:
 
 ExtentReports:
     groupId:    com.relevantcodes
-    artifactId: extentsreports
+    artifactId: extentreports
     version:    2.41.1
 
     groupId:    com.vimalselvam

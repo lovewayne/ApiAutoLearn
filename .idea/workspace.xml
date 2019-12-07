@@ -2,41 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fd0e4a4-b0b0-4ba4-87d7-951515ceca86" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_relevantcodes_extentreports_2_41_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20170516.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_8_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_sqlite_jdbc_3_21_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_logging_1_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserManagerSystem/UserManagerSystem.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserManagerSystem/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserManagerSystem/src/main/java/com/learn/cases/AddUserTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserManagerSystem/src/main/java/com/learn/cases/GetUserInfoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserManagerSystem/src/main/java/com/learn/cases/GetUserListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserManagerSystem/src/main/java/com/learn/cases/LoginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserManagerSystem/src/main/java/com/learn/cases/UpdateUserInfoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserManagerSystem/src/main/java/com/learn/config/ExtensTestngReportsListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserManagerSystem/src/main/java/com/learn/config/TestConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserManagerSystem/src/main/java/com/learn/model/AddUserCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserManagerSystem/src/main/java/com/learn/model/GetUserInfoCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserManagerSystem/src/main/java/com/learn/model/GetUserListCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserManagerSystem/src/main/java/com/learn/model/InterfaceName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserManagerSystem/src/main/java/com/learn/model/LoginCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserManagerSystem/src/main/java/com/learn/model/UpdateUserInfoCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserManagerSystem/src/main/java/com/learn/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserManagerSystem/src/main/java/com/learn/utils/ConfigFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserManagerSystem/src/main/java/com/learn/utils/DatabaseUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserManagerSystem/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserManagerSystem/src/main/resources/databaseConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserManagerSystem/src/main/resources/mapper/SQLMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserManagerSystem/src/main/resources/moco-runner-0.11.0-standalone.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserManagerSystem/src/main/resources/testng.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ApiAutoLearn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ApiAutoLearn.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MybatisLogbackLearn/src/main/java/com/learn/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/MybatisLogbackLearn/src/main/java/com/learn/Application.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jar包引用" beforeDir="false" afterPath="$PROJECT_DIR$/jar包引用" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
@@ -74,36 +39,26 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="SQLMapper.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UserManagerSystem/src/main/resources/mapper/SQLMapper.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="3" selection-end-column="54" />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="databaseConfig.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UserManagerSystem/src/main/resources/databaseConfig.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
-              <caret line="24" column="16" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="testng.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UserManagerSystem/src/main/resources/testng.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-20">
-              <caret line="17" column="43" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="43" />
-            </state>
+            <state relative-caret-position="-162" />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/UserManagerSystem/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1403">
-              <caret line="61" column="21" lean-forward="true" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
+            <state relative-caret-position="276">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -115,18 +70,14 @@
       </file>
       <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UserManagerSystem/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="基本配置" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MocoLearn/基本配置">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="69">
-              <caret line="3" column="74" lean-forward="true" selection-start-line="3" selection-end-line="3" selection-end-column="74" />
+              <caret line="3" column="74" selection-start-line="3" selection-end-line="3" selection-end-column="74" />
             </state>
           </provider>
         </entry>
@@ -134,11 +85,8 @@
       <file leaf-file-name="LoginTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UserManagerSystem/src/main/java/com/learn/cases/LoginTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="42" column="29" lean-forward="true" selection-start-line="42" selection-start-column="29" selection-end-line="42" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="69">
+              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -147,7 +95,7 @@
         <entry file="file://$PROJECT_DIR$/MocoLearn/mocoHttpPost.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="276">
-              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -156,7 +104,7 @@
         <entry file="file://$PROJECT_DIR$/MocoLearn/mocoHttpCookies.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="276">
-              <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -265,7 +213,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="485" />
     <option name="y" value="60" />
     <option name="width" value="1400" />
@@ -518,7 +466,7 @@
       <workItem from="1575384598540" duration="5226000" />
       <workItem from="1575390149894" duration="1626000" />
       <workItem from="1575438363885" duration="5159000" />
-      <workItem from="1575443782968" duration="38879000" />
+      <workItem from="1575443782968" duration="39925000" />
     </task>
     <task id="LOCAL-00001" summary="testng">
       <created>1574864107731</created>
@@ -563,11 +511,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="138167000" />
+    <option name="totallyTimeSpent" value="139213000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -587,10 +534,10 @@
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3297062" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3319149" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3319149" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.30851063" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22291666" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.30851063" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22291666" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="3" />
@@ -949,71 +896,54 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UserManagerSystem/src/main/resources/mapper/SQLMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="3" selection-end-column="54" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/TestNGLearn/src/main/resources/suite.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/UserManagerSystem/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/MocoLearn/基本配置">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
-          <caret line="3" column="74" lean-forward="true" selection-start-line="3" selection-end-line="3" selection-end-column="74" />
+          <caret line="3" column="74" selection-start-line="3" selection-end-line="3" selection-end-column="74" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MocoLearn/mocoHttpPost.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MocoLearn/mocoHttpCookies.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
-          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UserManagerSystem/src/main/resources/databaseConfig.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="24" column="16" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/UserManagerSystem/src/main/java/com/learn/cases/LoginTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="42" column="29" lean-forward="true" selection-start-line="42" selection-start-column="29" selection-end-line="42" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="69">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UserManagerSystem/src/main/resources/testng.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-20">
-          <caret line="17" column="43" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="43" />
-        </state>
+        <state relative-caret-position="-162" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UserManagerSystem/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1403">
-          <caret line="61" column="21" lean-forward="true" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
+        <state relative-caret-position="276">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
