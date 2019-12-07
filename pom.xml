@@ -29,8 +29,8 @@
         <module>ExtentReportsLearn</module>
         <module>HttpClientLearn</module>
         <module>SpringBootApiLearn</module>
-        <module>MybatisAndLogback</module>
         <module>MybatisLogbackLearn</module>
+        <module>UserManagerSystem</module>
     </modules>
     
 </project>
