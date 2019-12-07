@@ -18,6 +18,7 @@ public class Application {
     }
     @PreDestroy
     public void close(){
+
         Application.context.close();
     }
 }
